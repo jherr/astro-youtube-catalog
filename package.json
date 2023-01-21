@@ -31,6 +31,7 @@
         "@tailwindcss/line-clamp": "^0.4.2",
         "@tailwindcss/typography": "^0.5.8",
         "@types/busboy": "^1.5.0",
+        "@types/lunr": "^2.3.4",
         "@types/node": "^18.11.18",
         "@types/quill": "^2.0.9",
         "@types/sharp": "^0.31.0",
@@ -65,6 +66,7 @@
         "@astrojs/preact": "^1.2.0",
         "@tailwindcss/container-queries": "^0.1.0",
         "busboy": "^1.6.0",
+        "lunr": "^2.3.9",
         "preact": "^10.11.3",
         "zod": "^3.20.2"
     }

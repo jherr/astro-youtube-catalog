@@ -16,6 +16,7 @@ specifiers:
   '@tailwindcss/line-clamp': ^0.4.2
   '@tailwindcss/typography': ^0.5.8
   '@types/busboy': ^1.5.0
+  '@types/lunr': ^2.3.4
   '@types/node': ^18.11.18
   '@types/quill': ^2.0.9
   '@types/sharp': ^0.31.0
@@ -33,6 +34,7 @@ specifiers:
   eslint-plugin-jsx-a11y: ^6.6.1
   http-cache-semantics: ^4.1.0
   image-size: ^1.0.2
+  lunr: ^2.3.9
   micromorph: ^0.3.1
   netlify-cli: ^12.1.1
   node-fetch: ^3.3.0
@@ -53,6 +55,7 @@ dependencies:
   '@astrojs/preact': 1.2.0_preact@10.11.3
   '@tailwindcss/container-queries': 0.1.0_tailwindcss@3.2.4
   busboy: 1.6.0
+  lunr: 2.3.9
   preact: 10.11.3
   zod: 3.20.2
 
@@ -69,6 +72,7 @@ devDependencies:
   '@tailwindcss/line-clamp': 0.4.2_tailwindcss@3.2.4
   '@tailwindcss/typography': 0.5.9_tailwindcss@3.2.4
   '@types/busboy': 1.5.0
+  '@types/lunr': 2.3.4
   '@types/node': 18.11.18
   '@types/quill': 2.0.10
   '@types/sharp': 0.31.1
@@ -2278,6 +2282,10 @@ packages:
     resolution: {integrity: sha512-BQ5aZNSCpj7D6K2ksrRCTmKRLEpnPvWDiLPfoGyhZ++8YtiK9d/3DBKPJgry359X/P1PfruyYwvnvwFjuEiEIg==}
     dependencies:
       '@types/node': 18.11.18
+    dev: true
+
+  /@types/lunr/2.3.4:
+    resolution: {integrity: sha512-j4x4XJwZvorEUbA519VdQ5b9AOU9TSvfi8tvxMAfP8XzNLtFex7A8vFQwqOx3WACbV0KMXbACV3cZl4/gynQ7g==}
     dev: true
 
   /@types/mdast/3.0.10:
@@ -8089,6 +8097,10 @@ packages:
     engines: {node: '>=10'}
     dependencies:
       yallist: 4.0.0
+
+  /lunr/2.3.9:
+    resolution: {integrity: sha512-zTU3DaZaF3Rt9rhN3uBMGQD3dD2/vFQqnvZCDv4dl5iOzq2IZQqTxu90r4E5J+nP70J3ilqVCrbho2eWaeW8Ow==}
+    dev: false
 
   /luxon/3.2.1:
     resolution: {integrity: sha512-QrwPArQCNLAKGO/C+ZIilgIuDnEnKx5QYODdDtbFaxzsbZcc/a7WFq7MhsVYgRlwawLtvOUESTlfJ+hc/USqPg==}
