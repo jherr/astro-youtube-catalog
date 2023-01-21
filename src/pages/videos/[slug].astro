@@ -1,6 +1,8 @@
 ---
 import { CollectionEntry, getCollection } from 'astro:content'
 
+import Layout from '../../layouts/Layout.astro';
+
 export async function getStaticPaths() {
   const video = await getCollection('videos')
   return video.map((video) => ({
@@ -14,4 +16,6 @@ const { data, render } = Astro.props
 const { Content } = await render()
 ---
 
-<Content />
+<Layout>
+  <Content />
+</Layout>

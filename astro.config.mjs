@@ -2,14 +2,17 @@ import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import tailwind from "@astrojs/tailwind";
 import node from "@astrojs/node";
+import preact from "@astrojs/preact";
 
+// https://astro.build/config
 export default defineConfig({
   integrations: [
-    tailwind(),
     mdx(),
     node({
       mode: "standalone",
     }),
+    preact(),
+    tailwind(),
   ],
   output: "server",
 });

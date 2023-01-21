@@ -1,7 +1,8 @@
 ---
 import { CollectionEntry, getCollection, getEntry } from 'astro:content'
 
-import VideoCard from '../../components/VideoCard.astro';
+import Layout from '../../layouts/Layout.astro';
+import VideoCard from '../../components/VideoCard';
 
 export async function getStaticPaths() {
   const roadmap = await getCollection('roadmaps')
@@ -21,8 +22,10 @@ const videos = await Promise.all(data.videos.map((video) => getEntry('videos', v
 const { Content } = await render()
 ---
 
-<Content />
+<Layout>
+  <Content />
 
-{videos.map((video) => (
-  <VideoCard {...video.data} />
-))}
+  {videos.map((video) => (
+    <VideoCard {...video.data} />
+  ))}
+</Layout>

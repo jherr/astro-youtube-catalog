@@ -1,7 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
 
-import VideoCard from '../components/VideoCard.astro';
+import Layout from "../layouts/Layout.astro";
+import VideoCard from '../components/VideoCard';
 
 const allVideos = await getCollection('videos');
 const recentVideos = [...allVideos].sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime()).slice(0, 10);
@@ -9,33 +10,24 @@ const recentVideos = [...allVideos].sort((a, b) => b.data.publishedAt.getTime() 
 const roadmaps = await getCollection('roadmaps');
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Blue Collar Coder Videos</title>
-	</head>
-	<body class="max-w-5xl mx-auto">
-		<ul
-			role="list"
-			class="mx-auto grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:gap-x-8 lg:gap-y-12 xl:grid-cols-3"
-		>
-			{recentVideos.map(({ slug, data }) => (
-				<a href={`/videos/${slug}`}>
-					<li>
-						<VideoCard {...data} />
-					</li>
-				</a>
-			))}
-		</ul>
-		{roadmaps.map(({ data, slug }) => (
-			<div>
-				<a href={`/roadmaps/${slug}`}>
-					<h3>{data.title}</h3>
-				</a>
-			</div>
+<Layout>
+	<ul
+		role="list"
+		class="mx-auto grid grid-cols-2 gap-x-4 gap-y-8 sm:grid-cols-4 md:gap-x-6 lg:gap-x-8 lg:gap-y-12 xl:grid-cols-3"
+	>
+		{recentVideos.map(({ slug, data }) => (
+			<a href={`/videos/${slug}`}>
+				<li>
+					<VideoCard {...data} />
+				</li>
+			</a>
 		))}
-	</body>
-</html>
+	</ul>
+	{roadmaps.map(({ data, slug }) => (
+		<div>
+			<a href={`/roadmaps/${slug}`}>
+				<h3>{data.title}</h3>
+			</a>
+		</div>
+	))}
+</Layout>

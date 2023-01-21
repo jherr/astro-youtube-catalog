@@ -10,7 +10,9 @@ export async function get({ request }) {
 
   return new Response(
     JSON.stringify(
-      videos.filter((video) => video.data.title.toLowerCase().includes(q))
+      videos
+        .filter((video) => video.data.title.toLowerCase().includes(q ?? ""))
+        .slice(0, 10)
     ),
     {
       status: 200,
