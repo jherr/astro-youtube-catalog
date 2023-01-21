@@ -1,0 +1,17 @@
+---
+import { CollectionEntry, getCollection } from 'astro:content'
+
+export async function getStaticPaths() {
+  const video = await getCollection('videos')
+  return video.map((video) => ({
+    params: { slug: video.slug },
+    props: video
+  }))
+}
+
+type Props = CollectionEntry<'videos'>
+const { data, render } = Astro.props
+const { Content } = await render()
+---
+
+<Content />

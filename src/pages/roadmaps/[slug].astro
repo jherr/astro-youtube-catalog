@@ -1,0 +1,28 @@
+---
+import { CollectionEntry, getCollection, getEntry } from 'astro:content'
+
+import VideoCard from '../../components/VideoCard.astro';
+
+export async function getStaticPaths() {
+  const roadmap = await getCollection('roadmaps')
+  return roadmap.map((roadmap) => ({
+    params: { slug: roadmap.slug },
+    props: roadmap
+  }))
+}
+
+type Props = CollectionEntry<'roadmaps'>
+const { data, render } = Astro.props
+
+type VideoId = Pick<CollectionEntry<'videos'>, "id">["id"];
+
+const videos = await Promise.all(data.videos.map((video) => getEntry('videos', video as unknown as VideoId)))
+
+const { Content } = await render()
+---
+
+<Content />
+
+{videos.map((video) => (
+  <VideoCard {...video.data} />
+))}
