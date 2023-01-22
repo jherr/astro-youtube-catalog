@@ -23,8 +23,8 @@ export default function ({
         />
       </div>
       <div class="flex flex-1 flex-col space-y-2 p-4">
-        <h3 class="text-sm font-medium text-gray-900">
-          <a href={`/videos/${slug}`}>{title}</a>
+        <h3 class="text-sm font-medium text-gray-900 truncate line-clamp-1">
+          {title}
         </h3>
       </div>
     </div>
