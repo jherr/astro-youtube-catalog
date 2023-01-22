@@ -28,10 +28,16 @@ export async function get({ request }) {
 
   const q = new URL(request.url).searchParams.get("q")?.toLowerCase();
 
-  const videos = videoIndex.index.search(q ?? "").map((res) => {
-    const id = res.ref as VideoId;
-    return videoIndex.videos.find((video) => video.id === id);
-  });
+  const videos = videoIndex.index
+    .search(q ?? "")
+    .map((res) => {
+      const id = res.ref as VideoId;
+      return videoIndex.videos.find((video) => video.id === id);
+    })
+    .filter((a) => a)
+    .sort(
+      (a, b) => b!.data.publishedAt.getTime() - a!.data.publishedAt.getTime()
+    );
 
   return new Response(
     JSON.stringify(

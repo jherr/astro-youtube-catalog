@@ -1,6 +1,8 @@
 ---
 import { CollectionEntry, getCollection } from 'astro:content'
 
+export const prerender = true;
+
 import Layout from '../../layouts/Layout.astro';
 
 export async function getStaticPaths() {

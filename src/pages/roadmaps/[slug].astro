@@ -1,8 +1,11 @@
 ---
+export const prerender = true;
+
 import { CollectionEntry, getCollection, getEntry } from 'astro:content'
 
+import VideoGrid from '../../components/VideoGrid';
+
 import Layout from '../../layouts/Layout.astro';
-import VideoCard from '../../components/VideoCard';
 
 export async function getStaticPaths() {
   const roadmap = await getCollection('roadmaps')
@@ -25,7 +28,5 @@ const { Content } = await render()
 <Layout>
   <Content />
 
-  {videos.map((video) => (
-    <VideoCard {...video.data} />
-  ))}
+  <VideoGrid videos={videos} />
 </Layout>
