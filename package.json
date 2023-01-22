@@ -7,7 +7,7 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "update-videos": "node --experimental-fetch updateVideos.mjs"
+    "update-videos": "node --experimental-fetch scripts/updateVideos.mjs"
   },
   "devDependencies": {
     "@astrojs/mdx": "1.0.0-beta.2",

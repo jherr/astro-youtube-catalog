@@ -4,11 +4,12 @@ import { CollectionEntry, getCollection } from 'astro:content'
 export const prerender = true;
 
 import Layout from '../../layouts/Layout.astro';
+import createSlug from '../../lib/createSlug';
 
 export async function getStaticPaths() {
   const video = await getCollection('videos')
   return video.map((video) => ({
-    params: { slug: video.slug },
+    params: { slug: createSlug(video.data.title) },
     props: video
   }))
 }

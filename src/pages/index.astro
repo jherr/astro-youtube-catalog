@@ -5,6 +5,7 @@ import { getCollection } from 'astro:content';
 
 import Layout from "../layouts/Layout.astro";
 import VideoGrid from '../components/VideoGrid';
+import createSlug from '../lib/createSlug';
 
 const allVideos = await getCollection('videos');
 const recentVideos = [...allVideos].sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime()).slice(0, 10);
@@ -17,9 +18,9 @@ const roadmaps = await getCollection('roadmaps');
 		<VideoGrid videos={recentVideos} />
 		<div>
 			<h1 class="text-3xl font-bold mb-2">Roadmaps</h1>
-			{roadmaps.map(({ data, slug }) => (
+			{roadmaps.map(({ data }) => (
 				<div>
-					<a href={`/roadmaps/${slug}`} class="hover:underline">
+					<a href={`/roadmaps/${createSlug(data.title)}`} class="hover:underline">
 						{data.title}
 					</a>
 				</div>
