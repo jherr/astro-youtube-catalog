@@ -1,7 +1,7 @@
 ---
 export const prerender = true;
 
-import { CollectionEntry, getCollection, getEntry } from 'astro:content'
+import { CollectionEntry, getCollection } from 'astro:content'
 
 import Layout from '../../layouts/Layout.astro';
 import VideoGrid from '../../components/VideoGrid';
@@ -15,12 +15,12 @@ export async function getStaticPaths() {
   }))
 }
 
-type Props = CollectionEntry<'roadmaps'>
-const { data, render } = Astro.props
+const { data, render } = Astro.props;
+const roadmap_title = data.title.toLowerCase();
 
-type VideoId = Pick<CollectionEntry<'videos'>, "id">["id"];
-
-const videos = await Promise.all(data.videos.map((video) => getEntry('videos', video as unknown as VideoId)))
+const videos = await getCollection('videos', ({ data }) => {
+  return data.roadmap === roadmap_title;
+});
 
 const { Content } = await render()
 ---

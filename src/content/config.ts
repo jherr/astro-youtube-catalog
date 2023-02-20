@@ -4,6 +4,7 @@ import { VideoIDsType } from "./videos";
 const videoSchema = defineCollection({
   schema: z.object({
     title: z.string(),
+    roadmap: z.string().optional(),
     publishedAt: z.date(),
     tags: z.array(z.string()).optional(),
     privacyStatus: z.enum(["public"]),
@@ -43,7 +44,6 @@ const videoSchema = defineCollection({
 const roadMapSchema = defineCollection({
   schema: z.object({
     title: z.string(),
-    videos: z.array(z.nativeEnum(VideoIDsType)),
   }),
 });
 
