@@ -56,6 +56,13 @@ declare module 'astro:content' {
 
 	const entryMap: {
 		"roadmaps": {
+"javascript.mdx": {
+  id: "javascript.mdx",
+  slug: "javascript",
+  body: string,
+  collection: "roadmaps",
+  data: InferEntrySchema<"roadmaps">
+},
 "typescript.mdx": {
   id: "typescript.mdx",
   slug: "typescript",
