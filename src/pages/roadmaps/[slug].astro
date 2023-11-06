@@ -18,9 +18,8 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<'roadmaps'>
 const { data, render } = Astro.props
 
-type VideoId = Pick<CollectionEntry<'videos'>, "id">["id"];
-
-const videos = await Promise.all(data.videos.map((video) => getEntry('videos', video as unknown as VideoId)))
+const allVideos = await getCollection('videos');
+const videos = await Promise.all(data.videos.map((video) =>allVideos.find((v) => v.id === video)))
 
 const { Content } = await render()
 ---
