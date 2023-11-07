@@ -201,6 +201,20 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"-JK1Fd6o74o.mdx": {
+	id: "-JK1Fd6o74o.mdx";
+  slug: "-jk1fd6o74o";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"-RoKGk5Lju0.mdx": {
+	id: "-RoKGk5Lju0.mdx";
+  slug: "-rokgk5lju0";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "-TsIUuA3yyE.mdx": {
 	id: "-TsIUuA3yyE.mdx";
   slug: "-tsiuua3yye";
@@ -218,6 +232,13 @@ declare module 'astro:content' {
 "0-BsmzlMMIw.mdx": {
 	id: "0-BsmzlMMIw.mdx";
   slug: "0-bsmzlmmiw";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"0Bk-oqVaHs4.mdx": {
+	id: "0Bk-oqVaHs4.mdx";
+  slug: "0bk-oqvahs4";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -299,6 +320,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"2Dz2BLDcgRU.mdx": {
+	id: "2Dz2BLDcgRU.mdx";
+  slug: "2dz2bldcgru";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "2rrwPm8fuis.mdx": {
 	id: "2rrwPm8fuis.mdx";
   slug: "2rrwpm8fuis";
@@ -306,9 +334,30 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"2sAdzy90GtE.mdx": {
+	id: "2sAdzy90GtE.mdx";
+  slug: "2sadzy90gte";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "2tJedF8I-8Q.mdx": {
 	id: "2tJedF8I-8Q.mdx";
   slug: "2tjedf8i-8q";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"3Q2q2gs0nAI.mdx": {
+	id: "3Q2q2gs0nAI.mdx";
+  slug: "3q2q2gs0nai";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"3dLCvAvkjNA.mdx": {
+	id: "3dLCvAvkjNA.mdx";
+  slug: "3dlcvavkjna";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -348,6 +397,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"4QFI4Fd4e0o.mdx": {
+	id: "4QFI4Fd4e0o.mdx";
+  slug: "4qfi4fd4e0o";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "4U067O3_fYk.mdx": {
 	id: "4U067O3_fYk.mdx";
   slug: "4u067o3_fyk";
@@ -379,6 +435,13 @@ declare module 'astro:content' {
 "4wfqc7roa0Q.mdx": {
 	id: "4wfqc7roa0Q.mdx";
   slug: "4wfqc7roa0q";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"4y46iRN5Vec.mdx": {
+	id: "4y46iRN5Vec.mdx";
+  slug: "4y46irn5vec";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -432,6 +495,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"6kLh_XQLNa8.mdx": {
+	id: "6kLh_XQLNa8.mdx";
+  slug: "6klh_xqlna8";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "6yBv-_COJkk.mdx": {
 	id: "6yBv-_COJkk.mdx";
   slug: "6ybv-_cojkk";
@@ -467,9 +537,30 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"7x3p5F0TgUA.mdx": {
+	id: "7x3p5F0TgUA.mdx";
+  slug: "7x3p5f0tgua";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"7xHtGNVQktI.mdx": {
+	id: "7xHtGNVQktI.mdx";
+  slug: "7xhtgnvqkti";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "87hg99a9cjE.mdx": {
 	id: "87hg99a9cjE.mdx";
   slug: "87hg99a9cje";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"8Iic7y3y0FE.mdx": {
+	id: "8Iic7y3y0FE.mdx";
+  slug: "8iic7y3y0fe";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -530,6 +621,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"C9Lrz9SHqgw.mdx": {
+	id: "C9Lrz9SHqgw.mdx";
+  slug: "c9lrz9shqgw";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "CO7vEjsw3cc.mdx": {
 	id: "CO7vEjsw3cc.mdx";
   slug: "co7vejsw3cc";
@@ -554,6 +652,13 @@ declare module 'astro:content' {
 "Cos-ctPX5hw.mdx": {
 	id: "Cos-ctPX5hw.mdx";
   slug: "cos-ctpx5hw";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"Cp64YbYBNDA.mdx": {
+	id: "Cp64YbYBNDA.mdx";
+  slug: "cp64ybybnda";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -586,9 +691,23 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"DLel3G4XUZ8.mdx": {
+	id: "DLel3G4XUZ8.mdx";
+  slug: "dlel3g4xuz8";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "DM6CgUFyXxw.mdx": {
 	id: "DM6CgUFyXxw.mdx";
   slug: "dm6cgufyxxw";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"DbVCjGHpVyc.mdx": {
+	id: "DbVCjGHpVyc.mdx";
+  slug: "dbvcjghpvyc";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -600,9 +719,30 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"DuGyH5RvfbY.mdx": {
+	id: "DuGyH5RvfbY.mdx";
+  slug: "dugyh5rvfby";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "DxG17pbgsZg.mdx": {
 	id: "DxG17pbgsZg.mdx";
   slug: "dxg17pbgszg";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"E0V3td6Il8I.mdx": {
+	id: "E0V3td6Il8I.mdx";
+  slug: "e0v3td6il8i";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"E4TH77SMOG8.mdx": {
+	id: "E4TH77SMOG8.mdx";
+  slug: "e4th77smog8";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -617,6 +757,13 @@ declare module 'astro:content' {
 "EH9Suo_J4Ks.mdx": {
 	id: "EH9Suo_J4Ks.mdx";
   slug: "eh9suo_j4ks";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"EOo56veFvhY.mdx": {
+	id: "EOo56veFvhY.mdx";
+  slug: "eoo56vefvhy";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -642,6 +789,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"F5cBad7_Bd0.mdx": {
+	id: "F5cBad7_Bd0.mdx";
+  slug: "f5cbad7_bd0";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "FC5gM49xQPE.mdx": {
 	id: "FC5gM49xQPE.mdx";
   slug: "fc5gm49xqpe";
@@ -663,6 +817,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"FfHsIio4aCU.mdx": {
+	id: "FfHsIio4aCU.mdx";
+  slug: "ffhsiio4acu";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "FmGYLJlhXco.mdx": {
 	id: "FmGYLJlhXco.mdx";
   slug: "fmgyljlhxco";
@@ -673,6 +834,13 @@ declare module 'astro:content' {
 "FrLzKMWa3Gk.mdx": {
 	id: "FrLzKMWa3Gk.mdx";
   slug: "frlzkmwa3gk";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"FrusJNycQvk.mdx": {
+	id: "FrusJNycQvk.mdx";
+  slug: "frusjnycqvk";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -691,9 +859,23 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"GHsO0t1_P0M.mdx": {
+	id: "GHsO0t1_P0M.mdx";
+  slug: "ghso0t1_p0m";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "GMeQ51MCegI.mdx": {
 	id: "GMeQ51MCegI.mdx";
   slug: "gmeq51mcegi";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"GNNBxTY1_C0.mdx": {
+	id: "GNNBxTY1_C0.mdx";
+  slug: "gnnbxty1_c0";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -740,6 +922,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"HefhXiP2IvI.mdx": {
+	id: "HefhXiP2IvI.mdx";
+  slug: "hefhxip2ivi";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "Hsk5tM_N420.mdx": {
 	id: "Hsk5tM_N420.mdx";
   slug: "hsk5tm_n420";
@@ -782,9 +971,30 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"InnDVEup61U.mdx": {
+	id: "InnDVEup61U.mdx";
+  slug: "inndveup61u";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "J-M11cC_NL4.mdx": {
 	id: "J-M11cC_NL4.mdx";
   slug: "j-m11cc_nl4";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"J1gzN1SAhyM.mdx": {
+	id: "J1gzN1SAhyM.mdx";
+  slug: "j1gzn1sahym";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"J1nq8zBkwMQ.mdx": {
+	id: "J1nq8zBkwMQ.mdx";
+  slug: "j1nq8zbkwmq";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -810,6 +1020,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"JRZCqUOmFwY.mdx": {
+	id: "JRZCqUOmFwY.mdx";
+  slug: "jrzcquomfwy";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "JaM2rExmmqs.mdx": {
 	id: "JaM2rExmmqs.mdx";
   slug: "jam2rexmmqs";
@@ -820,6 +1037,13 @@ declare module 'astro:content' {
 "JauJhGTBFsc.mdx": {
 	id: "JauJhGTBFsc.mdx";
   slug: "jaujhgtbfsc";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"JgsHV7ZR9wk.mdx": {
+	id: "JgsHV7ZR9wk.mdx";
+  slug: "jgshv7zr9wk";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -908,6 +1132,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"M9tMuM5TuDQ.mdx": {
+	id: "M9tMuM5TuDQ.mdx";
+  slug: "m9tmum5tudq";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "MJaGti42c5c.mdx": {
 	id: "MJaGti42c5c.mdx";
   slug: "mjagti42c5c";
@@ -925,6 +1156,13 @@ declare module 'astro:content' {
 "MU8_LP8R_ZI.mdx": {
 	id: "MU8_LP8R_ZI.mdx";
   slug: "mu8_lp8r_zi";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"MVCV38iQ5SU.mdx": {
+	id: "MVCV38iQ5SU.mdx";
+  slug: "mvcv38iq5su";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -957,9 +1195,23 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"Mt5ocZi8JS0.mdx": {
+	id: "Mt5ocZi8JS0.mdx";
+  slug: "mt5oczi8js0";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "NCSkAUP3Nv0.mdx": {
 	id: "NCSkAUP3Nv0.mdx";
   slug: "ncskaup3nv0";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"NF7FFughuA4.mdx": {
+	id: "NF7FFughuA4.mdx";
+  slug: "nf7ffughua4";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -992,9 +1244,30 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"NjKOAbWqOM4.mdx": {
+	id: "NjKOAbWqOM4.mdx";
+  slug: "njkoabwqom4";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"NkUf0ULcWAE.mdx": {
+	id: "NkUf0ULcWAE.mdx";
+  slug: "nkuf0ulcwae";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "OCg4DJyVGk0.mdx": {
 	id: "OCg4DJyVGk0.mdx";
   slug: "ocg4djyvgk0";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"ONPlUclYGxk.mdx": {
+	id: "ONPlUclYGxk.mdx";
+  slug: "onpluclygxk";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1055,6 +1328,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"Q-jnCu85PEc.mdx": {
+	id: "Q-jnCu85PEc.mdx";
+  slug: "q-jncu85pec";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "Q4QDyr0jLfo.mdx": {
 	id: "Q4QDyr0jLfo.mdx";
   slug: "q4qdyr0jlfo";
@@ -1072,6 +1352,20 @@ declare module 'astro:content' {
 "QChEaOHauZY.mdx": {
 	id: "QChEaOHauZY.mdx";
   slug: "qcheaohauzy";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"QISH8M3y6iY.mdx": {
+	id: "QISH8M3y6iY.mdx";
+  slug: "qish8m3y6iy";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"QpilBWeiO8A.mdx": {
+	id: "QpilBWeiO8A.mdx";
+  slug: "qpilbweio8a";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1097,6 +1391,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"R5IxHxfgjT0.mdx": {
+	id: "R5IxHxfgjT0.mdx";
+  slug: "r5ixhxfgjt0";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "RAJD4KpX8LA.mdx": {
 	id: "RAJD4KpX8LA.mdx";
   slug: "rajd4kpx8la";
@@ -1107,6 +1408,20 @@ declare module 'astro:content' {
 "RCgJQq_pDfg.mdx": {
 	id: "RCgJQq_pDfg.mdx";
   slug: "rcgjqq_pdfg";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"RMv-aC3TaGs.mdx": {
+	id: "RMv-aC3TaGs.mdx";
+  slug: "rmv-ac3tags";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"RXuOyR3yscM.mdx": {
+	id: "RXuOyR3yscM.mdx";
+  slug: "rxuoyr3yscm";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1146,6 +1461,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"Srq7nUi-LUc.mdx": {
+	id: "Srq7nUi-LUc.mdx";
+  slug: "srq7nui-luc";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "Sti_XBFn5Xw.mdx": {
 	id: "Sti_XBFn5Xw.mdx";
   slug: "sti_xbfn5xw";
@@ -1153,9 +1475,30 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"T3m-MZkuadU.mdx": {
+	id: "T3m-MZkuadU.mdx";
+  slug: "t3m-mzkuadu";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"TmhvqvjK5nM.mdx": {
+	id: "TmhvqvjK5nM.mdx";
+  slug: "tmhvqvjk5nm";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "UbEx1v26kCs.mdx": {
 	id: "UbEx1v26kCs.mdx";
   slug: "ubex1v26kcs";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"UgYr63qcQCc.mdx": {
+	id: "UgYr63qcQCc.mdx";
+  slug: "ugyr63qcqcc";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1177,6 +1520,13 @@ declare module 'astro:content' {
 "VcOMq3LQtBU.mdx": {
 	id: "VcOMq3LQtBU.mdx";
   slug: "vcomq3lqtbu";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"ViVa5JPGrf4.mdx": {
+	id: "ViVa5JPGrf4.mdx";
+  slug: "viva5jpgrf4";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1209,9 +1559,23 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"WyS3mF4wJKw.mdx": {
+	id: "WyS3mF4wJKw.mdx";
+  slug: "wys3mf4wjkw";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "XYq9QpgAx8g.mdx": {
 	id: "XYq9QpgAx8g.mdx";
   slug: "xyq9qpgax8g";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"XaQiY_Zi5YM.mdx": {
+	id: "XaQiY_Zi5YM.mdx";
+  slug: "xaqiy_zi5ym";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1251,6 +1615,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"Y7oS9Evn_2o.mdx": {
+	id: "Y7oS9Evn_2o.mdx";
+  slug: "y7os9evn_2o";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "YQvQwTAqXE8.mdx": {
 	id: "YQvQwTAqXE8.mdx";
   slug: "yqvqwtaqxe8";
@@ -1258,9 +1629,23 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"YlU9vznPWIk.mdx": {
+	id: "YlU9vznPWIk.mdx";
+  slug: "ylu9vznpwik";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "YzPDzWM_k_8.mdx": {
 	id: "YzPDzWM_k_8.mdx";
   slug: "yzpdzwm_k_8";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"Z0Odn0pCf9w.mdx": {
+	id: "Z0Odn0pCf9w.mdx";
+  slug: "z0odn0pcf9w";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1289,6 +1674,20 @@ declare module 'astro:content' {
 "ZKlXqrcBx88.mdx": {
 	id: "ZKlXqrcBx88.mdx";
   slug: "zklxqrcbx88";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"ZLMjJL70glE.mdx": {
+	id: "ZLMjJL70glE.mdx";
+  slug: "zlmjjl70gle";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"Zwd_8Jy7b-c.mdx": {
+	id: "Zwd_8Jy7b-c.mdx";
+  slug: "zwd_8jy7b-c";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1324,6 +1723,13 @@ declare module 'astro:content' {
 "apg9XR35pAM.mdx": {
 	id: "apg9XR35pAM.mdx";
   slug: "apg9xr35pam";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"azsMsfUDrD0.mdx": {
+	id: "azsMsfUDrD0.mdx";
+  slug: "azsmsfudrd0";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1377,6 +1783,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"cByutNrBOFc.mdx": {
+	id: "cByutNrBOFc.mdx";
+  slug: "cbyutnrbofc";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "cHUAvVkOBvY.mdx": {
 	id: "cHUAvVkOBvY.mdx";
   slug: "chuavvkobvy";
@@ -1384,9 +1797,30 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"cg_lV21vU-E.mdx": {
+	id: "cg_lV21vU-E.mdx";
+  slug: "cg_lv21vu-e";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"ciQdQkT0bZk.mdx": {
+	id: "ciQdQkT0bZk.mdx";
+  slug: "ciqdqkt0bzk";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "cpG5W4uyqz0.mdx": {
 	id: "cpG5W4uyqz0.mdx";
   slug: "cpg5w4uyqz0";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"czvSZqnpTHs.mdx": {
+	id: "czvSZqnpTHs.mdx";
+  slug: "czvszqnpths";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1475,6 +1909,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"fXD9Ct03Q6k.mdx": {
+	id: "fXD9Ct03Q6k.mdx";
+  slug: "fxd9ct03q6k";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "fu10QR3IU-k.mdx": {
 	id: "fu10QR3IU-k.mdx";
   slug: "fu10qr3iu-k";
@@ -1503,6 +1944,41 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"gSHPdskFL-Q.mdx": {
+	id: "gSHPdskFL-Q.mdx";
+  slug: "gshpdskfl-q";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"gXbUeZZ2l78.mdx": {
+	id: "gXbUeZZ2l78.mdx";
+  slug: "gxbuezz2l78";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"gg31JTZmFUw.mdx": {
+	id: "gg31JTZmFUw.mdx";
+  slug: "gg31jtzmfuw";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"gi4c7fbeURc.mdx": {
+	id: "gi4c7fbeURc.mdx";
+  slug: "gi4c7fbeurc";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"gmkdMTFg_kg.mdx": {
+	id: "gmkdMTFg_kg.mdx";
+  slug: "gmkdmtfg_kg";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "gtnDe_2YzFQ.mdx": {
 	id: "gtnDe_2YzFQ.mdx";
   slug: "gtnde_2yzfq";
@@ -1510,9 +1986,44 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"gvMpY48kf2w.mdx": {
+	id: "gvMpY48kf2w.mdx";
+  slug: "gvmpy48kf2w";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"gwgmb00G_6g.mdx": {
+	id: "gwgmb00G_6g.mdx";
+  slug: "gwgmb00g_6g";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "hHXzchWLoqw.mdx": {
 	id: "hHXzchWLoqw.mdx";
   slug: "hhxzchwloqw";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"hn_L56ypX1A.mdx": {
+	id: "hn_L56ypX1A.mdx";
+  slug: "hn_l56ypx1a";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"hr_y1hIdZHs.mdx": {
+	id: "hr_y1hIdZHs.mdx";
+  slug: "hr_y1hidzhs";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"hsF5eiT6iOs.mdx": {
+	id: "hsF5eiT6iOs.mdx";
+  slug: "hsf5eit6ios";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1587,6 +2098,20 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"kFnoD02gADs.mdx": {
+	id: "kFnoD02gADs.mdx";
+  slug: "kfnod02gads";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"kHsTp2LENUI.mdx": {
+	id: "kHsTp2LENUI.mdx";
+  slug: "khstp2lenui";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "kSXpwOElFY0.mdx": {
 	id: "kSXpwOElFY0.mdx";
   slug: "ksxpwoelfy0";
@@ -1615,6 +2140,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"kpHo_vKqcZk.mdx": {
+	id: "kpHo_vKqcZk.mdx";
+  slug: "kpho_vkqczk";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "ks0Fsn6Csa4.mdx": {
 	id: "ks0Fsn6Csa4.mdx";
   slug: "ks0fsn6csa4";
@@ -1622,9 +2154,23 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"l2jK0PBcawQ.mdx": {
+	id: "l2jK0PBcawQ.mdx";
+  slug: "l2jk0pbcawq";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "lGEgtSETz9Y.mdx": {
 	id: "lGEgtSETz9Y.mdx";
   slug: "lgegtsetz9y";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"lISvyIaSRyk.mdx": {
+	id: "lISvyIaSRyk.mdx";
+  slug: "lisvyiasryk";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1671,9 +2217,30 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"md65iBX5Gxg.mdx": {
+	id: "md65iBX5Gxg.mdx";
+  slug: "md65ibx5gxg";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "muCLu1-v_zA.mdx": {
 	id: "muCLu1-v_zA.mdx";
   slug: "muclu1-v_za";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"mwBvr4H2cwU.mdx": {
+	id: "mwBvr4H2cwU.mdx";
+  slug: "mwbvr4h2cwu";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"n5FK8_EXcbs.mdx": {
+	id: "n5FK8_EXcbs.mdx";
+  slug: "n5fk8_excbs";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1699,6 +2266,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"nMD4Q5ubX2A.mdx": {
+	id: "nMD4Q5ubX2A.mdx";
+  slug: "nmd4q5ubx2a";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "nMhD9IB9YJ8.mdx": {
 	id: "nMhD9IB9YJ8.mdx";
   slug: "nmhd9ib9yj8";
@@ -1709,6 +2283,13 @@ declare module 'astro:content' {
 "nOq1a6-8M-E.mdx": {
 	id: "nOq1a6-8M-E.mdx";
   slug: "noq1a6-8m-e";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"nR9K7JBXK20.mdx": {
+	id: "nR9K7JBXK20.mdx";
+  slug: "nr9k7jbxk20";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1727,6 +2308,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"nt5o1iMgPmA.mdx": {
+	id: "nt5o1iMgPmA.mdx";
+  slug: "nt5o1imgpma";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "o3JWb04DRIs.mdx": {
 	id: "o3JWb04DRIs.mdx";
   slug: "o3jwb04dris";
@@ -1737,6 +2325,13 @@ declare module 'astro:content' {
 "oAtlrDD7eFM.mdx": {
 	id: "oAtlrDD7eFM.mdx";
   slug: "oatlrdd7efm";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"oFdFexdzy30.mdx": {
+	id: "oFdFexdzy30.mdx";
+  slug: "ofdfexdzy30";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1755,6 +2350,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"pEGQ3UUeSEY.mdx": {
+	id: "pEGQ3UUeSEY.mdx";
+  slug: "pegq3uuesey";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "pGy5vrFJlH0.mdx": {
 	id: "pGy5vrFJlH0.mdx";
   slug: "pgy5vrfjlh0";
@@ -1769,6 +2371,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"pSQjU3GB23E.mdx": {
+	id: "pSQjU3GB23E.mdx";
+  slug: "psqju3gb23e";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "qACBGbBxVYY.mdx": {
 	id: "qACBGbBxVYY.mdx";
   slug: "qacbgbbxvyy";
@@ -1776,9 +2385,30 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"qADQdrEKuJw.mdx": {
+	id: "qADQdrEKuJw.mdx";
+  slug: "qadqdrekujw";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "qCX8rw4qOSA.mdx": {
 	id: "qCX8rw4qOSA.mdx";
   slug: "qcx8rw4qosa";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"qO2qLZDVDCM.mdx": {
+	id: "qO2qLZDVDCM.mdx";
+  slug: "qo2qlzdvdcm";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"qmdu9Kiw6UQ.mdx": {
+	id: "qmdu9Kiw6UQ.mdx";
+  slug: "qmdu9kiw6uq";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1811,6 +2441,20 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"rrI3Wi1XV5I.mdx": {
+	id: "rrI3Wi1XV5I.mdx";
+  slug: "rri3wi1xv5i";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"rvoum40FHAk.mdx": {
+	id: "rvoum40FHAk.mdx";
+  slug: "rvoum40fhak";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "s6nG0byDI-o.mdx": {
 	id: "s6nG0byDI-o.mdx";
   slug: "s6ng0bydi-o";
@@ -1818,9 +2462,23 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"sQKTv4ulj_0.mdx": {
+	id: "sQKTv4ulj_0.mdx";
+  slug: "sqktv4ulj_0";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "s_Fs4AXsTnA.mdx": {
 	id: "s_Fs4AXsTnA.mdx";
   slug: "s_fs4axstna";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"sbiuZj2s5fs.mdx": {
+	id: "sbiuZj2s5fs.mdx";
+  slug: "sbiuzj2s5fs";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1842,6 +2500,13 @@ declare module 'astro:content' {
 "sqTPGMipjHk.mdx": {
 	id: "sqTPGMipjHk.mdx";
   slug: "sqtpgmipjhk";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"t-nchkL9yIg.mdx": {
+	id: "t-nchkL9yIg.mdx";
+  slug: "t-nchkl9yig";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1902,6 +2567,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"tvp08g2W5dA.mdx": {
+	id: "tvp08g2W5dA.mdx";
+  slug: "tvp08g2w5da";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "ufQcDD1kQCI.mdx": {
 	id: "ufQcDD1kQCI.mdx";
   slug: "ufqcdd1kqci";
@@ -1944,9 +2616,23 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"vyJf8ch6-ZY.mdx": {
+	id: "vyJf8ch6-ZY.mdx";
+  slug: "vyjf8ch6-zy";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "w58aZjACETQ.mdx": {
 	id: "w58aZjACETQ.mdx";
   slug: "w58azjacetq";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"wBQ2XDEKZw0.mdx": {
+	id: "wBQ2XDEKZw0.mdx";
+  slug: "wbq2xdekzw0";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1965,9 +2651,23 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"weri7-a9Ytk.mdx": {
+	id: "weri7-a9Ytk.mdx";
+  slug: "weri7-a9ytk";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "wg6iqAdBF9A.mdx": {
 	id: "wg6iqAdBF9A.mdx";
   slug: "wg6iqadbf9a";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"wp1Rzv1uP10.mdx": {
+	id: "wp1Rzv1uP10.mdx";
+  slug: "wp1rzv1up10";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -1986,6 +2686,20 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"wzRSYQ3b-Mk.mdx": {
+	id: "wzRSYQ3b-Mk.mdx";
+  slug: "wzrsyq3b-mk";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"x-aNifu9RNw.mdx": {
+	id: "x-aNifu9RNw.mdx";
+  slug: "x-anifu9rnw";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "x22F4hSdZJM.mdx": {
 	id: "x22F4hSdZJM.mdx";
   slug: "x22f4hsdzjm";
@@ -2000,6 +2714,13 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"xEWJwnQBqUo.mdx": {
+	id: "xEWJwnQBqUo.mdx";
+  slug: "xewjwnqbquo";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "xdJQ1GtUQCg.mdx": {
 	id: "xdJQ1GtUQCg.mdx";
   slug: "xdjq1gtuqcg";
@@ -2007,9 +2728,23 @@ declare module 'astro:content' {
   collection: "videos";
   data: InferEntrySchema<"videos">
 } & { render(): Render[".mdx"] };
+"xlTrDIHhnhs.mdx": {
+	id: "xlTrDIHhnhs.mdx";
+  slug: "xltrdihhnhs";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
 "xrbuvD5HBq4.mdx": {
 	id: "xrbuvD5HBq4.mdx";
   slug: "xrbuvd5hbq4";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"yFOq-V7Fb50.mdx": {
+	id: "yFOq-V7Fb50.mdx";
+  slug: "yfoq-v7fb50";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -2024,6 +2759,13 @@ declare module 'astro:content' {
 "yZPGUHRUXVw.mdx": {
 	id: "yZPGUHRUXVw.mdx";
   slug: "yzpguhruxvw";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"yi8UCnXPu8U.mdx": {
+	id: "yi8UCnXPu8U.mdx";
+  slug: "yi8ucnxpu8u";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
@@ -2059,6 +2801,13 @@ declare module 'astro:content' {
 "zA6EDTErWUg.mdx": {
 	id: "zA6EDTErWUg.mdx";
   slug: "za6edterwug";
+  body: string;
+  collection: "videos";
+  data: InferEntrySchema<"videos">
+} & { render(): Render[".mdx"] };
+"zJ605k6ZYgA.mdx": {
+	id: "zJ605k6ZYgA.mdx";
+  slug: "zj605k6zyga";
   body: string;
   collection: "videos";
   data: InferEntrySchema<"videos">
