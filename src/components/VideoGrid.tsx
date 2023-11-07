@@ -1,7 +1,6 @@
 import { CollectionEntry } from "astro:content";
 
 import VideoCard from "./VideoCard";
-import createSlug from "../lib/createSlug";
 
 export default function VideoGrid({
   videos,
@@ -15,8 +14,8 @@ export default function VideoGrid({
     >
       {videos.map(({ data }) => (
         <li>
-          <a href={`/videos/${createSlug(data.title)}`}>
-            <VideoCard slug={createSlug(data.title)} {...data} />
+          <a>
+            <VideoCard {...data} />
           </a>
         </li>
       ))}

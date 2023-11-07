@@ -1,11 +1,9 @@
 import { ComponentChildren, JSX } from "preact";
 
 export default function ({
-  slug,
   thumbnails,
   title,
 }: {
-  slug: string;
   thumbnails: {
     high: {
       url: string;

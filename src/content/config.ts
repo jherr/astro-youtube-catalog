@@ -6,7 +6,7 @@ const videoSchema = defineCollection({
     title: z.string(),
     publishedAt: z.date(),
     tags: z.array(z.string()).optional(),
-    privacyStatus: z.enum(["public"]),
+    privacyStatus: z.enum(["public", "hidden"]),
     short: z.boolean(),
     thumbnails: z.object({
       default: z.object({
